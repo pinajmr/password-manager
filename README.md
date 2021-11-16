@@ -1,4 +1,4 @@
-<img  src="./imagen/Frame.jpg" width="1145" height="50" >
+<img  src="./imagen/Frame.jpg" width="830" height="50" >
 
 # Cerber - The Blockchain Password Manager
 

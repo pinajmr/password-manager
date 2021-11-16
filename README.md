@@ -1,9 +1,9 @@
-# Ceclock - The Blockchain Password Manager
-#### Using encryption with Chainlink oracle and blockchain technology, Ceclock is a site that helps you manage your passwords in a secure and trustless way such that only you have access to them.Passwords are never lost, no central server required.
+# Cerber - The Blockchain Password Manager
+#### Using encryption with Chainlink oracle and blockchain technology, Cerber is a site that helps you manage your passwords in a secure and trustless way such that only you have access to them.Passwords are never lost, no central server required.
 
-<!-- ![alt text](./image/logo.png "Ceclock - The blockchain password manager") -->
+<!-- ![alt text](./image/logo.png "Cerber - The blockchain password manager") -->
 
-#### Using encryption and blockchain technology, Ceclock is a Chrome extension that helps you manage your passwords in a secure and trustless way such that only you have access to them.
+#### Using encryption and blockchain technology, Cerber is a Chrome extension that helps you manage your passwords in a secure and trustless way such that only you have access to them.
 
 
 ### [Link to site](https://)
@@ -40,7 +40,7 @@
 * There are lots of potential problems with the existing centralized password managers:
   * Single point of failure: if the server/database goes down, there goes your passwords
   * Trust issue: can you really trust that these closed-source softwares will not just read your passwords?
-*Ceclcok solves all of these problems:
+*Cerber solves all of these problems:
   * The passwords are stored on the decentralized database that is the Nebulas blockchain, hence it will not go down easily
   * The passwords are encrypted by your private key which belongs to only you. You are the only one who can see your saved passwords.
 

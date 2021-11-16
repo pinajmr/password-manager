@@ -17,32 +17,28 @@ contract PasswordManager {
     string s_password;
   }
   
-  uint private s_id;
+  //string private url;
   
-  mapping(uint => Account) accounts;
+  mapping(string => Account) accounts;
   
   
   
   //Account[] private accounts;
 
 
-  function setData(uint id ,string memory _username, string memory _password) public  {
+  function setData(string memory url ,string memory _username, string memory _password) public  {
       //accounts.push(Account({s_owner : msg.sender, s_username : _username,s_password : _password}));
-      s_id = id;
-      if (id != 0){
-        accounts[s_id].s_owner = msg.sender;
-        accounts[s_id].s_username = _username;
-        accounts[s_id].s_password = _password;
-      } else {
-          revert("You have a error");
-      }
-
+     
+      accounts[url].s_owner = msg.sender;
+      accounts[url].s_username = _username;
+      accounts[url].s_password = _password;
+    
       
     //   emit SetAccount(msg.sender);
   }
 
-  function getData(uint id) public view  returns (string memory ,string memory) {
-    require(accounts[id].s_owner == msg.sender, "You not are the owner");
-    return (accounts[id].s_username, accounts[id].s_password);
+  function getData(string memory url) public view  returns (string memory ,string memory) {
+    require(accounts[url].s_owner == msg.sender, "You not are the owner");
+    return (accounts[url].s_username, accounts[url].s_password);
   }
 }

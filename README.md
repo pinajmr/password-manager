@@ -1,12 +1,15 @@
+<img  src="./imagen/Frame.jpg" width="1145" height="50" >
+
 # Cerber - The Blockchain Password Manager
-#### Using encryption with Chainlink oracle and blockchain technology, Cerber is a site that helps you manage your passwords in a secure and trustless way such that only you have access to them.Passwords are never lost, no central server required.
+
+#### Cerber is a password manager that uses decentralization and security that only the blockchain can guarantee, Cerber is a site that helps you manage your passwords safely and without having a third party, so that only you have access to them. Passwords will never be lost, no central server is required.
 
 <!-- ![alt text](./image/logo.png "Cerber - The blockchain password manager") -->
 
-#### Using encryption and blockchain technology, Cerber is a Chrome extension that helps you manage your passwords in a secure and trustless way such that only you have access to them.
 
 
-### [Link to site](https://)
+
+##### [Link to site (soon)](https://)
 
 ### Problem
 
@@ -14,7 +17,7 @@
 * Also say that with the GDPR laws implemented now, you can't have this user's info on the blockchain, because you can't remove it if the user asks you to do it.
 
 ### Solve:
-
+* Use a Oracle like Chainlink.
 
 ### Features:
 - 
@@ -26,7 +29,7 @@
 ### How it works
 * Blockchain uses the [Polygon ](https://polygon.technology/) and each user account is linked to a Ether account.
 * Can you login with external provider like metamask
-* Ceclcok saves the encrypted passwords/secret notes on the Polygon blockchain.
+* Cerber saves the encrypted passwords/secret notes on the Polygon blockchain.
 * Hence, your passwords will be accessible to you anytime and anywhere, as long as you have your private key
 * No one but you can decrypt the encrypted passwords. Thus, you are truly in control of your passwords.
 
@@ -45,7 +48,7 @@
   * The passwords are encrypted by your private key which belongs to only you. You are the only one who can see your saved passwords.
 
 ### Contract address
-Our deployed contract on the mainnet Polygon can be found [here](https://).
+Our deployed contract on the Kovan testnet can be found the last beta version [here](https://kovan.etherscan.io/address/0x7219447e33769e3c4f80e24a9cac28247465d7b8).
 
 ### Donations
 

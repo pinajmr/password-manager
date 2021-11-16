@@ -2,7 +2,7 @@
 
 # Cerber - The Blockchain Password Manager
 
-#### Cerber is a password manager that uses decentralization and security that only the blockchain can guarantee, Cerber is a site that helps you manage your passwords safely and without having a third party, so that only you have access to them. Passwords will never be lost, no central server is required.
+#### Cerber is a password manager that uses decentralization and security that only the blockchain can guarantee. Cerber is a site that helps you manage your passwords safely and without having a third party, so that only you have access to them. Passwords will never be lost, no central server is required.
 
 <!-- ![alt text](./image/logo.png "Cerber - The blockchain password manager") -->
 

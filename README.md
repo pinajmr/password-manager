@@ -1,7 +1,7 @@
 <img  src="./imagen/Frame.jpg" width="830" height="50" >
 
-*First project without a guide, carried out step by step for the Fall 2021 Hackathon of Chainlink.*
-_Team: Pinajmr Dev and Sarap UI & UX. Feel free to make a contribution or correction, beginner project._
+*First project without a guide, carried out step by step for Chainlink Fall 2021 Hackathon.*
+_Team: [Pinajmr](https://www.linkedin.com/in/pinajmr/) Dev and [Sarap](https://www.linkedin.com/in/sarahrappeneau/) UI & UX. Feel free to make a contribution or correction, beginner project._
 
 # Cerber - The Blockchain Password Manager
 

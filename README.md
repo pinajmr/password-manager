@@ -1,5 +1,8 @@
 <img  src="./imagen/Frame.jpg" width="830" height="50" >
 
+*First project without a guide, carried out step by step for the Fall 2021 Hackathon of Chainlink.*
+_Team: Pinajmr Dev and Sarap UI & UX. Feel free to make a contribution or correction, beginner project._
+
 # Cerber - The Blockchain Password Manager
 
 #### Cerber is a password manager that uses decentralization and security that only the blockchain can guarantee. Cerber is a site that helps you manage your passwords safely and without having a third party, so that only you have access to them. Passwords will never be lost, no central server is required.

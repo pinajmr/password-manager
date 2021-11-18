@@ -44,12 +44,6 @@ contract PasswordManager is Ownable, VRFConsumerBase {
     return (accounts[url].s_username, accounts[url].s_password);
   }
   
-//   function deterministicPseudoRandom(string memory url, string memory _username, string memory _password) public pure returns( uint256) {
-//     bytes memory encodedParams = abi.encodePacked(url,_username,_password);
-//     bytes32 hashedParams = keccak256(encodedParams);
-    
-//     return uint256(hashedParams);
-//   }
   
   function getRandomNumber() public returns (bytes32 requestId) {
     require(LINK.balanceOf(address(this)) >= fee, "Not enough LINK - fill contract with faucet");
